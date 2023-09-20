@@ -1,0 +1,24 @@
+# Schiebel Code Assessment Example
+
+The goal of this example is to have code that we can have a technical discussion about.
+
+Please review `map_gug.cpp` and `map_gug.h`, understand what the code does, how
+it works, and so on. The `dummy_declarations.h` and the `boost` folder are not
+subject to the assessment. They are included merely to make `map_gug.cpp`
+compilable.
+
+You don't need to provide written feedback. Instead, please be prepared to talk
+about this in person at your next interview round.
+
+Typical questions / discussion starters could be:
+
+* What is the purpose of this piece of code?
+* How does it work?
+* What is done well, what is not (coding style, bugs, documentation, testing, etc.)?
+  * How could potential improvements look like?
+* What advice might you give the team member who wrote this?
+
+Please do not spend more than 3 hours preparing this. We know that take-home
+tasks are an investment from your side, and want to keep the commitment manageable.
+
+If it helps, the files should compile with any recent gcc (`g++ -I . -c map_gug.cpp`) or MSVC version.
